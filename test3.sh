@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -e "Enter input:\c"
 read a b
 expr $a + $b

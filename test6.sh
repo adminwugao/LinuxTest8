@@ -1,3 +1,4 @@
+#!/bin/bash
 read ip
 ping -c 3 $ip > /dev/null
 
